@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind utilities;
+
+body {
+  @apply bg-sunset-50 text-gray-900;
+}
